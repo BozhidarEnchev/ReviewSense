@@ -1,4 +1,4 @@
-from main import ReviewSense
+from review_sense import ReviewSense
 review_sense = ReviewSense()
 
 while True:
