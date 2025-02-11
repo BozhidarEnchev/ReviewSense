@@ -16,6 +16,9 @@ The sentiment analysis model works by processing IMDB movie reviews and predicti
 - LSTM for sentiment classification
 - Keras/TensorFlow implementation
 
+### Accuracy
+The accuracy of the pre-trained model is 87%, providing a reliable classification of movie reviews.
+
 ## Dataset
 
 You need the **IMDB Dataset** to train or test the model. You can download it from Kaggle:
